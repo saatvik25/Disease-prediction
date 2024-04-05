@@ -8,7 +8,6 @@ Robo-Doc is an AI-powered medical chatbot designed to assist users in diagnosing
 - **Severity Assessment**: The chatbot can assess the severity of symptoms and provide appropriate recommendations based on the user's condition.
 
 ## Getting Started
-
 To get started with Robo-Doc, follow these steps:
 
 1. Clone the repository to your local machine.
