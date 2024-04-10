@@ -1,5 +1,4 @@
 # Robo-Doc: AI-Powered Medical Chatbot
-
 Robo-Doc is an AI-powered medical chatbot designed to assist users in diagnosing diseases based on their symptoms. This chatbot leverages natural language processing (NLP) and machine learning (ML) algorithms to provide accurate and helpful recommendations.
 ## Features
 - **Symptom Analysis**: Users can input their symptoms, and Robo-Doc will analyze them to suggest potential diseases.
