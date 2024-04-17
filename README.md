@@ -5,7 +5,6 @@ Robo-Doc is an AI-powered medical chatbot designed to assist users in diagnosing
 - **Interactive Interface**: The chatbot provides an interactive interface where users can engage in conversations and receive responses in real-time.
 - **Semantic and Syntactic Analysis**: Robo-Doc utilizes both semantic and syntactic analysis techniques to understand user input and provide relevant suggestions.
 - **Severity Assessment**: The chatbot can assess the severity of symptoms and provide appropriate recommendations based on the user's condition.
-
 ## Getting Started
 To get started with Robo-Doc, follow these steps:
 
