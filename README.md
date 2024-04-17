@@ -7,7 +7,6 @@ Robo-Doc is an AI-powered medical chatbot designed to assist users in diagnosing
 - **Severity Assessment**: The chatbot can assess the severity of symptoms and provide appropriate recommendations based on the user's condition.
 ## Getting Started
 To get started with Robo-Doc, follow these steps:
-
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running `pip install -r requirements.txt`.
 3. Run the Flask application by executing `python app.py`.
